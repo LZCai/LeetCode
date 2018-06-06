@@ -20,6 +20,8 @@ import java.util.List;
  * 
  * 注意：
  * 当a=nums[i]时，b只需要从i+1开始遍历即可，因为0-i的元素前面的循环中已经遍历。
+ * 
+ * 参考网址：https://www.cnblogs.com/grandyang/p/4481576.html
  */
 public class 三数之和 {
 	
